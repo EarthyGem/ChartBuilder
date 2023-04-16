@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftdate",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/malcommac/SwiftDate.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6190d0cefff3013e77ed567e6b074f324e5c5bf5"
+      }
+    },
+    {
+      "identity" : "swissephemeris",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vsmithers1087/SwissEphemeris.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "20a97e6c3386051a37868690293a564677dea734"
+      }
+    }
+  ],
+  "version" : 2
+}
